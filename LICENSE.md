@@ -1,4 +1,4 @@
-Light Dark GTNH Reimagined by Jack the Undead is licensed under the  
+Gruvbox GTNH Reimagined by Jack the Undead is licensed under the  
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
 
 See below for the full license text.
