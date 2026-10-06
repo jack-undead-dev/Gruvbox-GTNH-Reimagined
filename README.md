@@ -1,8 +1,8 @@
 <img width="200" height="200" alt="GTNH dark logo" src="https://github.com/jack-undead-dev/LightDark-GTNH-Reimagined/blob/main/packLarge.png?raw=true"/>
 
-# LightDark GTNH Reimagined  
+# Gruvbox GTNH Reimagined  
 
-A light dark themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh]  
+A Gruvbox themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh]  
 Current GTNH supported version: [2.8.4][gtnhRelease]  
 Download the resource pack: [WIP][wip]  
 
@@ -14,7 +14,7 @@ Download the resource pack: [WIP][wip]
 
 ## About
 
-**LightDark GTNH Reimagined** was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit *too dark* for my taste, which made reading and looking for some items a bit hard.  
+**Gruvbox GTNH Reimagined** was made as a recolor of the original Dark GTNH Reimagined as I personally thought the original resource pack, while useful for a dark mode, was a bit *too dark* for my taste, which made reading and looking for some items a bit hard.  
 
 I'm changing it around in the pursuit of a lighter color palette, and better **contrast**, while keeping the same modern feel of the original.  
 
