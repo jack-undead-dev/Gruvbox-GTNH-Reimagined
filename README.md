@@ -2,6 +2,8 @@
 
 # Gruvbox GTNH Reimagined  
 
+*Archived due to the recent GTNH 2.9 update, after testing a bit I realized that somethings might be easier had I started creating the resource pack from zero, so I'll be archiving this fork and cleating a new repo to handle the resource pack from zero.*  
+
 A Gruvbox themed GUI resource pack made for GregTech New Horizons, forked from [Kuliiuu's Dark GTNH Reimagined][origDrkGtnh]  
 Current GTNH supported version: [2.8.4][gtnhRelease]  
 Download the resource pack: [WIP][wip]  
